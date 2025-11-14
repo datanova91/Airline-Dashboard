@@ -1,6 +1,7 @@
 # Airline-Dashboard
 
 Case Study
+
 Objective
 
 To analyze airline ticket pricing, flight distribution, and route patterns for better pricing optimization and operational planning.
